@@ -108,4 +108,3 @@ while playing:
     if (ball_x + 10) >= 675 and (ball_y + 10) in range(pad_b_y, pad_b_y+100):
         move_x *= -1
         sound1.play()
-
